@@ -67,10 +67,10 @@ exports.menu = (prefix, salam, pushname) =>{
 │•INFO BOT•
 │VERSI : 0.02
 │FITUR : 230
-│CREATOR : APRILIA
+│CREATOR : Tata
 │MODEL SCRIPT : BETA
-│SUBSCRIBE CHANNEL VENZ BOT
-│https://www.youtube.com/c/Venzz - BOT
+│SUBSCRIBE CHANNEL nightD! 
+│https://www.youtube.com/c/nightD
 ╰───────────────┈ ⳹
 
 ╭─⬣ *List Menu*
@@ -336,16 +336,16 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}setdesc [text] 
 │ • ${prefix}setname [text] 
 ╰─⬣
-╭─⧉ BIG THANKS TO ⧉
-│❒ ALLAH SWT
-│❒ ORTU
-│❒ ZEEONE OFC (MASTAH)
-│❒ ALDI FAUZI (MASTAH)
-│❒ VENZZ (NEWBIE)
-│❒ SIEGRIN (MASTAH)
-│❒ DINATA (MASTAH)
-│❒ SANZY YT (MASTAH)
-│❒ PENYEDIA MODULE
+╭─⧉ THANKS TO ⧉
+│❒ YESUS KRISTUS
+│❒ GAVRIL(bestie) + (semangatin) 
+│❒ TATA(pembuat) 
+│❒ DASTAN(crush+ajarin) 
+│❒ VIO(ajarin buat bot) 
+│❒ MURSID(ajarin cara ngerun bot) 
+│❒ TAMIM
+│❒ FANNY
+│❒ RAHMAD
 ╰───────────────┈ ⳹
 `
 	}
